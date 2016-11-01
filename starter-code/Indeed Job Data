@@ -1,230 +1,123 @@
 ,city,job,salary,company
-2,"New York, NY","Junior Data Scientist, Data & Statistics - Data Capabilities...",187200.0,Federal Reserve Bank of New York
-4,"New York, NY",VP - Predictive Modeling / Data Scientist,140000.0,3coast
-5,"New York, NY 10004 (Financial District area)",Chief Data Scientist,100000.0,Medivo Inc.
-9,"New York, NY",Data Scientist for a growing cyber security company located...,125000.0,Workbridge Associates
-11,"New York, NY 10154 (Midtown area)",Cognitive AI Data Scientist,33650.0,KPMG
-14,"New York, NY",Research Analyst,175000.0,Cushman & Wakefield
-16,"New York, NY",Post-Doctoral Research Associate - Chen Group,150000.0,Central Office
-17,"New York, NY",Lead Data Scientist - Top Data Consultancy,140000.0,Averity
-18,"Hoboken, NJ",Data Engineer,150000.0,Jet
-19,"Rahway, NJ",Data Scientist Job,220000.0,Merck
-22,"New York, NY",Clin Rsch Spt Specialist,120000.0,NYU Langone Medical Center
-23,"New York, NY",Analytics Manager,135000.0,Hearst Television Inc.
-24,"New York, NY",FGP Billing Rep (35),147500.0,NYU Langone Medical Center
-26,"New York, NY",Equity Research Analyst - Power & Utilities,115000.0,Spencer Ogden
-31,"Jersey City, NJ",Data Scientist,250000.0,Lamoreaux Search
-32,"New York, NY 10154 (Midtown area)",Sr Associate - Data Scientist,137500.0,KPMG
-34,"Paterson, NJ 07524",Data Analysis/Housing Specilaist,195000.0,Catholic Family & Community Services
-35,"New York, NY",Senior Research Data Analyst,57500.0,Weill Cornell Medical College
-36,"New York, NY",Machine Learning Engineer,87500.0,HyperScience
-38,"New York, NY","Assoc Director, Statistical Services",82500.0,WebMD
-40,"New York, NY",Product Designer - MSK Data Products,135000.0,Memorial Sloan Kettering
-41,"New York, NY 10017 (Midtown area)",Quantitative Analyst-Asset Allocation,135000.0,Analytic Recruiting
-44,"New York, NY 10029 (Yorkville area)",Clinical Research Assistant II - Psychiatry,215000.0,Mount Sinai Health System
-51,"New York, NY",Postdoctoral Researcher / Computational Biology,56576.0,Weill Cornell Medicine
-53,"New York, NY 10154 (Midtown area)",Manager - Data Scientist,110000.0,KPMG
-54,"New York, NY 10167 (Midtown area)",Quantitative Research Machine Learning,200000.0,Selby Jennings
-57,"New York, NY 10016 (Gramercy area)",Machine Learning Software Engineer,140000.0,Gilt Groupe
-58,"Montvale, NJ",Ultimate Hoops Statistician,80000.0,Lifetime Fitness
-59,"New York, NY","Quantitative Analyst, Asset Allocation",68239.0,Citi
-62,"New York, NY 10029 (Yorkville area)",HPC ADMINISTRATOR,88331.0,Mount Sinai Health System
-63,"New York, NY 10003 (Greenwich Village area)",Front End Engineer,212500.0,Knewton
-64,"New York, NY",Data Science Quantitative Research,60000.0,Connections of New York
-73,"New York, NY",Scientific Associate,175000.0,Sudler& Hennessey
-77,"Brooklyn, NY 11216 (Bedford-Stuyvesant area)",Geologist/ Environmental Scientist,200000.0,"American Environmental Assessment & Solutions, Inc"
-78,"East Hanover, NJ",Clinical Research Scientist,100000.0,Source One Technical Solutions
-79,"New York, NY",Senior Research Scientist,58000.0,"Amazon Web Services, Inc."
-80,"New York, NY",Assistant/Associate Professor,80000.0,Stony Brook West Campus/HSC
-85,"New York, NY",Health Scientist,117437.5,Centers for Disease Control and Prevention
-86,"Whippany, NJ",Principal Information Scientist,175000.0,Bayerjobs.com
-87,"New York, NY",VP of Product Management,125000.0,Socure
-88,"New York, NY",Scientific Programmer,200000.0,NYU Langone Medical Center
-91,"Hoboken, NJ 07030",Sponsored Research Engineer - Davidson,97500.0,Stevens Institute of Technology
-92,"New York, NY",Biostatistician,61500.0,NYU Langone Medical Center
-95,"New York, NY",Biosafety Level 3 Facility Manager,40976.0,Weill Cornell Medical College
-96,"New York, NY 10167 (Midtown area)",Quantitative Business Analyst - Investment Bank,95000.0,Selby Jennings
-97,"New York, NY",Senior Administrative Secretary,80000.0,Weill Cornell Medical College
-101,"Evanston, IL",Research Technologist 2,56871.0,Northwestern University
-102,"Chicago, IL",Software Engineer-Data and Algorithms,75000.0,IBM
-106,"Chicago, IL 60611 (Near North Side area)",Data Scientist,85000.0,Enterprise Consulting Services
-107,"Chicago, IL",Data Scientist -Fitness/Wellness Firm,120000.0,Hirewell
-108,"Chicago, IL",Data Scientists and Quantitative Researchers,110000.0,Optiver
-111,"Chicago, IL",Research Professional Data Analyst,110000.0,University of Chicago
-112,"Chicago, IL",Lead Data Science Instructor,150000.0,General Assembly
-113,"Chicago, IL 60290 (Loop area)",Entry-level Market Research Analyst,187200.0,Market Track
-117,"Chicago, IL",Associate Quantitative Research Analyst,180000.0,GinasTechJobs.com
-120,"Chicago, IL",Research Associate (Asst/Assoc/Prof) - Infectious Diseases (...,200000.0,University of Chicago
-123,"Chicago, IL 60654 (Loop area)",Computational Biologists- Pharmacogenomics,41600.0,Tempus
-124,"Abbott Park, IL",Associate Scientist I,140000.0,Metabyte Inc
-128,"Chicago, IL",Sr. Analyst-Fixed Income Manager Research,128016.0,Aon
-131,"Chicago, IL",DATA SCIENTIST,90000.0,Options Away
-133,"Chicago, IL","Regional Account Manager, Patient Engagement, Central US",37440.0,Reed Elsevier
-134,"Hammond, IN","Biological Aide (Fisheries) II - Hammond, OR",70000.0,Jamison Professional Services Inc
-136,"Chicago, IL 60654 (Loop area)",Senior Scentist I - Clinical NGS,85000.0,Tempus
-137,"Chicago, IL",MEDICAL TECHNOLOGIST III - JOHN H. STROGER HOSPITAL,57428.8,Cook County Health & Hospitals System
-138,"Chicago, IL","Director, Risk Adjustment",87500.0,"Vizient, Inc."
-139,"Chicago, IL 60642 (Portage Park area)",Senior Ruby on Rails Developer Client Product Team,87500.0,National Collegiate Scouting Association
-140,"Chicago, IL",Senior Data Scientist - Unstructured Data,85000.0,Civis Analytics
-200,"San Francisco, CA",Data Engineer,176800.0,Airbnb
-205,"San Francisco, CA 94108 (Financial District area)",Data Scientist,140000.0,Third Eye
-206,"San Francisco, CA","gU Faculty, Principal Data Scientist",65000.0,Galvanize
-209,"San Francisco, CA",Data Scientist,157500.0,Instacart
-216,"San Francisco, CA 94103 (South Of Market area)",Director of Analytics - Decision Science,160000.0,Westfield Corporation
-221,"San Francisco, CA",Sr./Principal Data Scientist,145000.0,Skillz Inc.
-222,"San Francisco, CA",Sr. Machine Learning Data Scientist,135000.0,All-In Analytics
-224,"Oakland, CA","Research Scientist, Economic Modeling",160000.0,Precision Health Economics
-226,"San Francisco, CA 94158 (South Of Market area)",Research Associate III or Senior Research Associate- Finkbei...,180000.0,Gladstone Institutes
-234,"Foster City, CA","Sr Research Scientist II, Immunology-Oncology",34142.0,Gilead
-240,"San Francisco, CA",Data Engineer,67589.6,Lyft Corporate
-245,"San Francisco, CA",Data Engineer,111774.0,The Climate Corporation
-251,"Berkeley, CA",Development Scientist CCD,39520.0,Bayerjobs.com
-254,"San Francisco, CA",Research Financial Analyst,104000.0,University of California San Francisco
-255,"San Francisco, CA",Senior Generalist Python Developer,200000.0,Grit Matters
-257,"Foster City, CA",Research Associate- Medicinal Chemistry,100000.0,Gilead
-266,"San Francisco, CA 94107 (South Of Market area)",Technical Program Manager,47840.0,Premise
-268,"San Francisco, CA",Medical Review Specialist,140000.0,Zolon Tech Solutions Inc
-271,"South San Francisco, CA","Scientist, In Vivo",140000.0,Denali
-272,"Berkeley, CA 94720",Network Analyst,160000.0,Lawrence Berkeley National Laboratory
-275,"South San Francisco, CA",Scientist I - Discovery Bio,62400.0,Lab Support
-280,"San Mateo, CA","Research Scientist, NLP & Machine Learning",150000.0,Payette Group
-281,"South San Francisco, CA",Senior Scientist I,160000.0,Stemcentrx
-283,"Redwood City, CA",Scientist II,70000.0,BMS
-286,"Berkeley, CA 94720",Postdoctoral Fellow (Structural Biology Algorithm Developer),140000.0,Lawrence Berkeley National Laboratory
-288,"Berkeley, CA 94720",Survey & Alignment Engineer,145000.0,Lawrence Berkeley National Laboratory
-289,"San Francisco, CA",Software Engineer 2,62400.0,Microsoft
-298,"San Bruno, CA 94066",Systems Engineering Intern - Summer 2017,76250.0,Walmart eCommerce
-300,"Austin, TX","Associate Instructor, Data Scientist",55008.0,Galvanize
-302,"Austin, TX",Sr. Developer- Machine Learning,66996.0,TrendKite
-303,"Austin, TX",Research Scientist for Computer Vision / Machine Learning,69996.0,NVIDIA
-305,"Austin, TX",Ultimate Hoops Statistician,102498.0,Lifetime Fitness
-306,"Austin, TX",Information Technology Intern,83298.0,IBM
-307,"Austin, TX",Engineering Scientist Associate - System Support Engineering...,71400.0,University of Texas at Austin
-308,"Austin, TX",Senior Software Engineer II,90000.0,Asuragen
-309,"Austin, TX",Business Security Officer,42228.0,CDK Global
-313,"Austin, TX",Environmental Scientist,70000.0,AECOM
-314,"Austin, TX",Enterprise Application Administrator,102498.0,GE Aviation
-405,"Seattle, WA","Machine Learning Scientist, Browse Classification",38244.0,Amazon Corporate LLC
-409,"Bellevue, WA",Senior Statistical Data Analyst,145834.0,Epic Games
-412,"Seattle, WA 98109 (Westlake area)",Assistant or Associate Member - Biostatistics and Biomathema...,7800.0,Fred Hutchinson Cancer Research Center
-413,"Seattle, WA 98109 (Westlake area)",Employee Services Representative,160000.0,Fred Hutchinson Cancer Research Center
-414,"Redmond, WA",Data Scientist,125000.0,Piezos Technology Solutions
-423,"Seattle, WA",Software Engineer II,42090.0,CDK Global
-425,"Redmond, WA",MDR/Vigilance Specialist,49110.0,"Physio-Control, Inc."
-429,"Seattle, WA 98109 (Westlake area)",SharePoint Developer,125000.0,Fred Hutchinson Cancer Research Center
-431,"Federal Way, WA",Staff Scientist,50136.0,Kennedy/Jenks Consultants
-435,"Redmond, WA",Data Analyst with Power BI Report,63012.0,Scout ET
-438,"Seattle, WA",MEDICAL LABORATORY SCIENTIST LEAD,75366.0,University of Washington Medical Center
-439,"Seattle, WA","Manager, Business Intelligence, Amazon Business",145834.0,Amazon Corporate LLC
-443,"Seattle, WA",Senior Research Analyst,150000.0,BrunswikSt.
-446,"Seattle, WA",Lead Architect,43494.0,CDK Global
-448,"Seattle, WA",ACADEMIC COUNSELOR - SENIOR,63012.0,University of Washington
-450,"Seattle, WA",PHARMACY DATABASE SUPPORT & REPORT WRITER - PIMS,108472.0,University of Washington Medical Center
-453,"Bellevue, WA",Chief Scientist - Network Technology,50136.0,Huawei
-454,"Seattle, WA",MEDICAL LABORATORY SCIENTIST 1,65568.0,University of Washington Medical Center
-459,"Seattle, WA",WMS APPLICATION DEVELOPER/ANALYST,59304.0,University of Washington Medical Center
-460,"Bellevue, WA",Principal Program Manager,63012.0,Microsoft
-468,"Seattle, WA",Hydrologist/Geomorphologist,75366.0,Environmental Science Associates
-471,"Bellevue, WA 98004 (Downtown area)",Senior Scheduler,59304.0,HDR
-477,"Seattle, WA","Sr. Software Development Engineer, Amazon Video",75366.0,Amazon Corporate LLC
-478,"Seattle, WA","Staff Software Engineer, Backend",43140.0,The Climate Corporation
-483,"Seattle, WA","Manager, Software Development - Amazon Lending",61308.0,Amazon Corporate LLC
-505,"Los Angeles, CA","RESEARCH ANALYST III, BEHAVIORAL SCIENCES",79758.5,Los Angeles County Department of Human Resources
-507,"El Segundo, CA",Operations Research Analyst,56072.0,Engility Corporation
-508,"Burbank, CA",Software Engineer (Machine Learning/Algorithm Development,105000.0,Workbridge Associates
-512,"Los Angeles, CA 90028",Senior Product Manager,88765.0,Fulcrum Labs
-513,"Santa Monica, CA",Part Time Data Science Instructor,100000.0,General Assembly
-514,"Sylmar, CA",Sr Clinical Scientist,42566.5,St. Jude Medical
-515,"Beverly Hills, CA",Senior Data Analytics,68772.0,Park computer systems
-516,"El Segundo, CA",Space Operations Research Analyst,42566.5,"The AEgis Technologies Group, Inc."
-517,"Los Angeles, CA",Postdoctoral Scientist (Genetic Epidemiology),125000.0,Cedars-Sinai
-519,"Los Angeles, CA",Commissary Manager,84495.5,Blue Bottle Coffee Inc.
-520,"Los Angeles, CA 90025",Risk and Quantitative Solutions Analyst Senior,104708.5,Capital Group
-521,"Los Angeles, CA",Scientist I - Flow Cytometry,130000.0,USA16 - US - Q2Solutions
-527,"Santa Monica, CA 90404",Quality Assurance & Postmarketing Surveillance Manager,88000.0,Red Bull
-534,"Brea, CA 92821",Real Estate Analyst,75864.0,"Beckman Coulter, Inc."
-535,"Los Angeles, CA",Equity Research Analyst,73860.0,"The TCW Group, Inc."
-537,"Pasadena, CA",Lead Software Developer,27040.0,Jet Propulsion Laboratory
-539,"Pasadena, CA 91101",Lead Application Developer - Java / JavaScript / Angular,94900.0,ADP
-541,"Brea, CA 92821","Scientific Affairs Manager, North America",63700.0,"Beckman Coulter, Inc."
-544,"Pasadena, CA",Senior Data Scientist - Business Analytics and Experimentati...,120000.0,Spokeo
-603,"Philadelphia, PA",Data Analysis Manager,93600.0,National Board of Medical Examiners
-605,"King of Prussia, PA 19406",Statistical Programmer,70720.0,J2 Solutions
-607,"Philadelphia, PA",Senior Business Systems Architect (Hadoop Developer),155000.0,Wolfe & Huntsman LLC
-609,"Voorhees, NJ",RISC Business Analyst II - data analysis,55000.0,FIS Global
-611,"Philadelphia, PA",Technical Lead - Services,110000.0,Reed Elsevier
-614,"Newtown, PA 18940",Senior Formulation Scientist,60000.0,"KVK Tech, Inc."
-615,"North Wales, PA",Assistant Project Manager (Epidemiology),91520.0,On-Board Services
-616,"Philadelphia, PA",Clinical Research Coord I - Neuro Surgery - Full Time,75000.0,Thomas Jefferson University and Hospitals
-618,"Gwynedd, PA","Distinguished Scientist, Clinical Research, Oncology Job",130000.0,Merck
-620,"Philadelphia, PA",CLINICAL RESEARCH ASST B,62400.0,University of Pennsylvania
-621,"Philadelphia, PA",Associate Scientist/Study Director (Viral Clearance),220000.0,Wuxi AppTec
-623,"King of Prussia, PA",Clinical Development Scientist (Study Manager),135200.0,InVentiv Health Clinical
-633,"West Point, PA",2017 Pharm Sci Intern-Analytical Science Job,250000.0,Merck
-636,"Malvern, PA",Principle Scientist for the Asphalt Platform - 1,125000.0,Absolute Opportunities
-637,"West Point, PA",Analytical Chemist,72500.0,Eurofins
-643,"West Point, PA","Associate Scientist, Engineering, Pharmaceutical Commerciali...",83200.0,Merck
-700,"Atlanta, GA 30338",Data Scientist,51706.0,KPMG
-703,"Alpharetta, GA",Data Analytics Scientist,82500.0,"delane Consulting/Talent Management, LLC"
-705,"Atlanta, GA 30318 (Rockdale area)",Electro-optical Engineer/Scientist (Research Engineer/Scient...,120002.5,Georgia Tech Research Institute
-706,"Atlanta, GA 30309 (Midtown area)",Sr Data Scientist (AWS),150000.0,eHire
-711,"Atlanta, GA",Sr. Statistical Programmer,177500.0,Novella Clinical
-712,"Atlanta, GA",Demand Creation Associate,31000.0,Oversight Systems
-713,"Atlanta, GA","Transportation Project Manager Assistant | Atlanta, GA (Down...",112500.0,"Gresham, Smith and Partners."
-714,"Atlanta, GA",Epidemiologist,85399.0,Centers for Disease Control and Prevention
-715,"Roswell, GA",Senior R&D Statistician,130000.0,Principle Solutions Group
-716,"Norcross, GA",Environmental Engineer or Scientist II,69900.0,Parsons Corporation
-720,"Atlanta, GA",Sr Staff Software Engineer Accounts Receivable,80000.0,GE Power
-721,"Atlanta, GA 30328",Sr. Scientist Ecology,32240.0,Atkins
-722,"Smyrna, GA",Acoustic Data Research Engineer ATAS Cobb 1148,52000.0,Georgia Tech Research Institute
-724,"Smyrna, GA 30082",Certifying Scientist,62500.0,Lighthouse Recruiting
-800,"Dallas-Fort Worth, TX",Data Science Director,180000.0,Oscar Technology
-804,"Irving, TX 75038",Senior Statistical Data Coordinator,50000.0,Boy Scouts of America
-806,"Dallas, TX","Associate, Entry Level Quantitative Analyst",85000.0,Markit
-809,"Dallas, TX 75215 (South Boulevard-Park Row area)",Research Financial Analyst II,5200.0,Baylor Scott & White Health
-810,"Plano, TX",Sr. Thermal Process Engineer / Scientist,130000.0,PepsiCo
-811,"Dallas, TX",SR Accounting Manager,130000.0,Post Holdings
-812,"Dallas, TX 75201 (City Center District area)",Real Estate Research Analyst,90000.0,Invesco
-813,"Irving, TX 75014",Data Scientist,97500.0,Rang Technologies
-815,"Plano, TX","Genetic Counselor, Clinical Genomics",95000.0,Lighthouse Recruiting
-819,"Irving, TX","Technologist, Medical I (P/T - Nights - Sat/Sun) - Irving, T...",46800.0,Quest Diagnostics
-902,"Pittsburgh, PA","Director, Data Science",40014.0,Innovu
-904,"West Mifflin, PA 15122",Chemical Engineer - Reactor Coolant Technology,40014.0,BMPC
-905,"Township of Cranberry, PA",Corrosion Control Technician (NACE CP2 Cathodic Protection C...,52884.0,Kleinfelder
-1000,"Beaverton, OR",Data Scientist Intern Nike,70000.0,Nike
-1001,"Portland, OR 97232 (Kerns area)",Director Advanced Analytics,60000.0,The Standard
-1002,"Portland, OR",Research BI and Big Data Manager,45000.0,Oregon Health & Science University
-1005,"Beaverton, OR",Administrative Assistant,64638.0,MWH
-1100,"Phoenix, AZ",DATA ANALYSIS AND RESEARCH MANAGER,68500.0,Arizona Health Care Cost Containment System
-1101,"Phoenix, AZ",Data Services Engineer,56677.0,Kudelski SA
-1102,"Phoenix, AZ 85012 (Alhambra area)","WILDLIFE SPECIALIST 3 - CORNVILLE, AZ BASED",48991.5,State of Arizona
-1103,"Tempe, AZ",Management Intern,30097.6,Arizona State University
-1104,"Phoenix, AZ",Fraud Risk Manager,60000.0,Carvana
-1105,"Tempe, AZ","Program Manager, CAP LTER",49738.0,Arizona State University
-1201,"Centennial, CO 80111","Data Research Analyst, Structured Credit",67026.0,S&P Global Ratings
-1202,"Denver, CO",Post-Doctoral Fellow In Implementation Research,120000.0,University of Colorado
-1203,"Glendale, CO",Quantitative Trading Analyst,63339.0,LENDERLIVE NETWORK LLC
-1206,"Boulder, CO",Data Scientist (Curriculum Developer / Instructor),56500.0,RefactorU
-1207,"Boulder, CO",Systems Administrator Associate (659841),105000.0,Ball Aerospace
-1208,"Aurora, CO","Image Scientist, Senior",61332.0,Booz Allen Hamilton
-1209,"Broomfield, CO",Associate Scientist - Food Quality,35000.0,"WhiteWave Foods, Inc."
-1214,"Denver, CO",Wetland Scientist - Greater Denver,68000.0,Planet Forward
-1217,"Aurora, CO",Assistant Professor,106100.0,University of Colorado
-1218,"Englewood, CO 80112",Big Data Developer I,85000.0,"Arrow Electronics, Inc."
-1230,"Broomfield, CO",Payload Electrical System Engineer (659742) - Security clear...,65934.0,Ball Aerospace
-1231,"Boulder, CO",Test Technician IV (658820),66654.0,Ball Aerospace
-1302,"Houston, TX",Certifying Scientist / LC-MS Chemist,65000.0,Nationwide Laboratory Partners LLC
-1303,"Houston, TX",Senior Analyst/ Data engineer,250000.0,Arundo Analytics
-1304,"Houston, TX",Research Scientist Advanced Materials,177500.0,C-Crete Technologies
-1307,"Houston, TX","Environmental Engineer/Scientist - Houston, TX",80500.0,CH2M
-1309,"Houston, TX",Catastrophe Risk Analyst - Quantitative,97500.0,Selby Jennings
-1310,"Houston, TX","Director, ETL Lead/Developer Hadoop Ecosystem",100000.0,AIG
-1400,"Coral Gables, FL",Research Analyst,50375.0,University of Miami
-1401,"Miami, FL",Analyst II Procurement,32900.0,"Beckman Coulter, Inc."
-1402,"Miramar, FL",Senior Data Analyst,75400.0,DeVry University
-1403,"Fort Lauderdale, FL",Project Geologist,38400.0,Terracon
-1404,"Miami, FL 33155","Research Nurse Scientist (Full Time, Day shift) - 9852",46000.0,Miami Children's Hospital
-1405,"Coral Gables, FL","Senior Interior Designer - Healthcare market | Miami, FL",90000.0,"Gresham, Smith and Partners."
-1407,"Dania Beach, FL",Contractor - Talent Acquisition Analyst,80000.0,"Magic Leap, Inc."
-1408,"Dania Beach, FL",Lead Tools Engineer,59450.0,"Magic Leap, Inc."
-1411,"Miami, FL",QC Chemist,50000.0,Staffing Resource Group
+13,New York,Data Analyst - Cardiology,33650.0,Columbia University
+16,New York,Associate Research Scientist,120000.0,Columbia University
+18,New York,Research and Brand Strategy Apprentice,147500.0,Insight Strategy Group
+22,New York,City Research Scientist II,77975.0,City of New York
+23,New York,Business Intelligence Engineer,150000.0,Amazon Corporate LLC
+25,New York,Data Engineer,135000.0,Paperless Post
+26,New York,Research Data Associate,120000.0,NYU Langone Medical Center
+28,New York,"Senior Analyst, Quantitative Research",140000.0,Kelton Global
+31,New York,"Research Engineer, Senior",175000.0,Yahoo! Inc.
+34,New York,"Research Analyst - Robotics, AI and Machine Learning",82500.0,Lux Research
+35,New York,Quantitative Analyst,135000.0,Markit Financial Info Service
+36,New York,Senior Data Scientist,115000.0,Socure
+40,New York,Lead Data Scientist,135000.0,ASCAP
+41,New York,Research Analyst,200000.0,United Hospital Fund of New York
+53,New York,Software Engineer/Dev OPS,100000.0,Digital Reasoning
+62,New York,Marketing Manager,120000.0,Climb
+64,New York,Cognitive Software Developer,200000.0,Weill Cornell Medical College
+66,New York,Research Scientist: Control Systems,200000.0,AreteX Systems
+68,New York,Sr. Business Intelligence Engineer,100000.0,2U
+78,New York,Quantitative Business Analyst,60000.0,JEG Search
+80,New York,ITS Service Desk Team Lead,40000.0,Weill Cornell Medical College
+83,New York,Director of Data Science,117437.5,Movable Ink
+84,New York,Product Development Manager,71764.0,Bloomberg
+88,New York,Quantitative Analyst (Fundamental Quant Equities) - Hedge Fu...,200000.0,Datacom Technology Group
+90,White Plains,"Research Analyst, Perinatal Data Center",58000.0,March of Dimes
+99,New York,Account Executive - Razorfish Health,115000.0,Publicis Healthcare Communications Group
+103,Chicago,Marketing Research Analyst,75000.0,Bobit Business Media
+104,Chicago,Lead Data Scientist - Video/Images,110000.0,GE Transportation
+105,Northbrook,"Real World Informatics and Analytics (RWI), Head of Analytic...",120000.0,Astellas Pharmaceuticals
+106,Chicago,Part-time Data Science Instructor,56871.0,General Assembly
+110,Chicago,Data Scientist - Statistics,115185.5,Civis Analytics
+112,Chicago,Research Professional,110000.0,University of Chicago
+115,Deerfield,Senior Statistician,150000.0,BAXTER
+117,Chicago,Associate Quantitative Research Analyst,180000.0,GinasTechJobs.com
+118,Chicago,Director of Data Science,41600.0,Trunk Club
+119,Chicago,Corporate Credit Research Analyst,180000.0,Morningstar
+127,Northbrook,"Assistant Director, Cloud Analytics Strategy",110000.0,Astellas Pharmaceuticals
+132,Chicago,Academic Python Developer,87500.0,Jobspring Partners
+134,Chicago,Manager / Director of Predictive Modeling,115000.0,Analytic Recruiting
+137,Chicago,Construction Manager-Data Center/Mission Critical Facilities,37440.0,HDR
+140,Evanston,"Associate Director, Professional Development",87500.0,Northwestern University
+142,Chicago,Senior DevOps Engineer,85000.0,Strategic IT Staffing
+200,San Francisco,Indoor Environmental Data Scientist,176800.0,Aclima
+207,San Francisco,Data Scientist - Forecasting,65000.0,"Rodan & Fields, LLC"
+208,San Francisco,Data Engineer,157500.0,Opendoor
+219,San Bruno,"Product Analyst, Data Science",145000.0,Google
+256,San Francisco,Software Engineer (Performance & Data),165000.0,"Magic Leap, Inc."
+259,San Francisco,Analyst - Sales Ops & Finance,180000.0,Mode
+260,San Francisco,Medical Review Specialist,104000.0,NESC Staffing Corp
+266,San Francisco,Field Application Specialist Representative,90000.0,Perkin Elmer
+268,San Francisco,Product Manager,111774.0,Virta Health
+273,San Francisco,Visual Interaction Designer,180000.0,Element Analytics
+283,San Francisco,Data Science (Human Computation),160000.0,Workbridge Associates
+291,San Francisco,"Senior Technical Product Manager, Data Pipeline",95000.0,Metabiota
+297,San Francisco,"Senior Software Engineer, Data Science",145000.0,Marin Software
+299,San Francisco,"Manager, Translational Development Operations (Biospecimen M...",150000.0,Celgene
+300,Portland,Research Analyst I/II,51409.0,Moses Lake Industries
+302,Portland,Forensic Scientist 1 (FS1 & FS Entry) Chemistry (Portland),64638.0,State of Oregon
+429,Issaquah,FISH AND WILDLIFE BIOLOGIST 2 *11007H,49110.0,State of Washington
+435,Bellevue,Software Engineer,145834.0,eBay
+440,Seattle,Molecular Technologist - FISH/Cytogenetics,75366.0,PhenoPath Laboratories
+445,Bellevue,Senior Industrial Wastewater Engineer,108472.0,MWH
+452,Seattle,Senior Scientist - Analytical Development,50136.0,BMS
+457,Bellevue,Quality Service Specialist,63012.0,HDR
+459,Seattle,"Manager, Machine Learning",75366.0,Amazon Corporate LLC
+465,Seattle,Director of Customer Promise,75366.0,Amazon Corporate LLC
+470,Seattle,SR. NETWORK ENGINEER,50136.0,University of Washington
+472,Seattle,Senior Program Manager,42090.0,Socrata
+473,Seattle,"Sr. Manager, Forecasting",59304.0,"Amazon Fulfillment Services, Inc."
+479,Seattle,Front End SDE - Emerging AWS Machine Learning,43140.0,Amazon Corporate LLC
+508,Chatsworth,Research Analyst,55000.0,Phillips Graduate University
+512,Pasadena,Machine Learning Research Scientist,97476.0,Datalogic
+516,Burbank,Office Manager/Administrative Assistant,104708.5,Applied Invention
+518,Pasadena,Associate Application Developer - Global Product Technology,75864.0,ADP
+520,El Segundo,Looking for a Research Analyst,64213.0,Kaleo Software
+522,Los Angeles,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",88765.0,Los Angeles County Department of Human Resources
+523,Burbank,Software Engineer (Machine Learning/Algorithm Development,105000.0,Workbridge Associates
+533,Los Angeles,Account Executive - Southern CA,84495.5,Socrata
+540,El Segundo,Structural Dynamics Engineer,63700.0,The Aerospace Corporation
+604,Plymouth Meeting,Statistician,155000.0,IMS Health
+609,Philadelphia,Technology Graduate Entry Scheme: Software Engineer 1,55000.0,Reed Elsevier
+611,Spring House,Scientist - Mammalian Cells,60000.0,Collab Infotech
+618,Philadelphia,Data Scientist needed for Tech Medical Company!,135200.0,Jobspring Partners
+629,Newtown,Market Research Analyst,110000.0,iMarketResearch LLC
+637,Philadelphia,Full Stack Software Engineer,100000.0,JUNO Search Partners
+640,Philadelphia,Patient Flow Clinical Supervisor,83200.0,Thomas Jefferson University Hospital
+700,Atlanta,Senior Data Scientist,101553.5,Vesta Corporation
+701,Alpharetta,Data Scientist,51706.0,Verizon
+705,Atlanta,Informatics Technical Specialist,150000.0,"Beckman Coulter, Inc."
+708,Atlanta,Data Manager,24000.0,Northrop Grumman
+709,Atlanta,Quality Assurance Specialist,85500.0,Battelle
+714,Atlanta,"Senior Research and Statistical Methodologist - Atlanta, GA",85399.0,ICF
+716,Atlanta,"Technical Curriculum Developer, Google Cloud Platform",32240.0,Google
+720,Norcross,"Controls Engineer Norcross, GA",112500.0,OFS FITEL LLC
+722,Atlanta,Biologist/Chemist,65000.0,Karna LLC
+724,Roswell,Geologist or Environmental Scientist - Mid Level,69900.0,Groundwater & Environmental Services
+800,Irving,Data Scientist - Speech Recognition,180000.0,"Resolvity, Inc"
+802,Dallas,Data Analytics Scien Lv 2-PCCI,72800.0,Parkland Hospital
+803,Plano,Big Data Technical Intern I,24960.0,AT & T
+804,Irving,Data Scientist,60000.0,Incedo
+808,Plano,Big Data Technical Co-Op I,85000.0,AT & T
+812,Irving,Sr. Quantitative Analyst,95000.0,TPA Technologies
+814,Plano,4337 -Database developer/DBA experience @Multiple location,97500.0,"ReqRoute,Inc"
+821,Irving,"Technologist, Medical / Scientist - (PT 24hrs, Sat & Sun) Ir...",46800.0,Quest Diagnostics
+842,Plano,Statistical Analyst,180000.0,STATinMED Research
+900,Pittsburgh,Data Scientist Opportunities,40014.0,Highmark Health
+903,Pittsburgh,Associate Scientist,40014.0,UPMC
+904,Pittsburgh,Clinical Research Program Coordinator,52884.0,The University of Pittsburgh
+907,Pittsburgh,POST-DOCTORAL POSITION IN POPULATION NEUROSCIENCE OF AGING,75500.0,University of Pittsburgh Graduate School of Public...
+1034,Portland,Research Analyst I/II,51409.0,Moses Lake Industries
+1112,San Diego,QC Analytical Development Scientist,54360.8,Vital Therapies Inc.
+1118,La Jolla,Programmer/Research Assistant,27040.0,Center for Applied Internet Data Analysis (CAIDA)
+1125,San Diego,Biologist-Flow Cytometry Core,140000.0,Eli Lilly and Company
+1132,San Diego,"Research Associate/Associate Scientist, Structural Biology",100000.0,Dart NeuroScience LLC
+1200,Denver,Statistical Analyst,70075.2,Penn Schoen Berland
+1204,Buckley AFB,R & D Scientist,90854.5,National Geospatial-Intelligence Agency
+1207,Boulder,Data Scientist (Curriculum Developer / Instructor),107500.0,RefactorU
+1208,Denver,"Big Data Developer (Spark, Hadoop, Hive)",105000.0,10Roof Technology
+1214,Boulder,Senior Project Engineer,68000.0,Otak
+1229,Boulder,Technical Intern-Optical Engineer (659632),65934.0,Ball Aerospace
+1300,Post Falls,Development Scientist III,70000.0,ALK Source Materials
+1409,Tampa,"Marketing Pursuit Manager - Healthcare market | Tampa, FL",100000.0,"Gresham, Smith and Partners."
